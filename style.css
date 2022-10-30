@@ -74,7 +74,7 @@
 }
 
 .button:hover {
-    color: #3a3A3a;
+    color: #3a3a3a;
 }
 
 /* Heading */
@@ -96,8 +96,8 @@
     line-height: 18px;
     height: 21px;
     padding: 0 9px;
-    border: 1px solid #dDd;
-    background: #FFF;
+    border: 1px solid #ddd;
+    background: #fff;
     border-radius: 6px;
     font-family: Lato, sans-serif;
     color: #888;
@@ -138,7 +138,7 @@
     margin: 0 10px;
 }
 
-li>label {
+.tasks__label {
     padding-left: 10px;
     box-sizing: border-box;
     font-size: 18px;
